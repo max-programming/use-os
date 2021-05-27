@@ -1,6 +1,6 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/react-useOs/master/.github/images/favicon512x512-linux.png" align="center" alt=":package: react-useOs" />
- <h2 align="center">:package: react-useOs</h2>
+ <img width="100px" src="https://raw.githubusercontent.com/hebertcisco/use-os/master/.github/images/favicon512x512-linux.png" align="center" alt=":package: use-os" />
+ <h2 align="center">:package: use-os</h2>
  <p align="center">React Package to show OS type</p>
 </p>
 
@@ -9,19 +9,19 @@
 
 ## Installation
 
-> Clone this repository: `git clone https://github.com/hebertcisco/react-useOs`
+> Clone this repository: `git clone https://github.com/hebertcisco/use-os`
 
 ### Open the directory and install the dependencies
 
 ```bash
-cd react-useOs
+cd use-os
 npm install
 ```
 
 ## Using
 
 ```js
-import useOs from "react-useOs";
+import useOs from "use-os";
 ```
 
 In react component:
