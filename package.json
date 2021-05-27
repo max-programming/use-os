@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "name": "react-useOs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hebert F Barros",
+  "license": "MIT",
+  "description": "Useful properties"
+}
